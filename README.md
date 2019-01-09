@@ -4,7 +4,7 @@ Length (bits) and the basis of the positional number (if the algorithm foresees)
 Also there's a realisation of methods in the class, which calculate the execution speed of algorithms
 by calculating the number of timer cycles.
 
-Mathods:
+Methods:
 1. Multiplication of non-negative integers by the Karatsuba Method;
 2. Multiplication of non-negative integers by the Toom-Cook Method;
 3. Multiplication of non-negative integers by the Strassen Method;
